@@ -20,4 +20,4 @@ run `./csv_to_t2t.py --help` for some more details
 <assessment name 1>,<adult administered 1>,<adult report 1>,<adult research 1>,<child administered 1>,<child report 1>,<child research 1>,...,<assessment name N>,<adult administered N>,<adult report N>,<adult research N>,<child administered N>,<child report N>,<child research N>
 ```
 
-see ./test.csv for working csv example
+see [sample.csv](./sample.csv) for working csv example
