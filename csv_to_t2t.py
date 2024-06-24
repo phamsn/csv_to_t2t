@@ -45,7 +45,7 @@ if __name__ == "__main__":
                         help = "path to csv file")
     args = parser.parse_args()
 
-    USER = input("T2T Uusername: ")
+    USER = input("T2T Username: ")
     PASS = getpass("T2T Password: ")
 
     print("Logging into Time2Track account...", end = " ")
